@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "631983449507",
+    "firebase_url": "https://madlevel7example-d54c1.firebaseio.com",
+    "project_id": "madlevel7example-d54c1",
+    "storage_bucket": "madlevel7example-d54c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631983449507:android:c9fb01d489bc7dcacaa616",
+        "android_client_info": {
+          "package_name": "tech.ru1t3rl.madlevel7example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631983449507-a8e21sc6b5jfm6rpr87luj6oroib4b2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvXui3Qbf54m51G1PWbpGUy9NL3enOT10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631983449507-a8e21sc6b5jfm6rpr87luj6oroib4b2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631983449507:android:441ddd053a6e8e95caa616",
+        "android_client_info": {
+          "package_name": "tech.ru1t3rl.madlevel7task1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631983449507-a8e21sc6b5jfm6rpr87luj6oroib4b2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvXui3Qbf54m51G1PWbpGUy9NL3enOT10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631983449507-a8e21sc6b5jfm6rpr87luj6oroib4b2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
