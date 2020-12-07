@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        binding.fab.setOnClickListener { view ->
+        binding.fab.setOnClickListener {
             FirebaseFirestore.setLoggingEnabled(true)
             FirebaseApp.initializeApp(this)
             findNavController(binding.navHostFragment).navigate(R.id.createProfileFragment)
